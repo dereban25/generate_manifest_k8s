@@ -5,7 +5,7 @@ Certainly! Here's an improved format for the manifest portfolio:
 
 ## Manifest Portfolio
 
-| Filename                | Prompt                                              | Description                                                 | Example                                              |
+| NAME               | PROMPT                                              | DESCRIPTION                                                 | EXAMPLE                                              |
 |-------------------------|-----------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------|
 | app.yaml                | YAML manifest for a Kubernetes Pod                  | Defines a basic Pod resource                               | [app.yaml](https://github.com/dereban25/generate_manifest_k8s/blob/main/app.yaml)                |
 | app-livenessProbe.yaml  | Liveness probe for the Pod                           | Configures a liveness probe for the Pod                    | [app-livenessProbe.yaml](https://github.com/dereban25/generate_manifest_k8s/blob/main/app-livenessProbe.yaml)  |
